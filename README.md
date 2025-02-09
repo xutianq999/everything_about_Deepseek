@@ -30,4 +30,5 @@
 <h1>**Deepseek教程**</h1>
 
 <a href="https://www.alipan.com/s/mcQJk1i6C1X" >DeepSeek 15天指导手册——从入门到精通 (2)</a>
+
 <a href="https://www.alipan.com/s/nTjsaj4mJaV">DeepSeek从入门到精通(20250204)</a>
