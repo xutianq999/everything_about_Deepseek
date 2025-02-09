@@ -30,10 +30,10 @@
 <h1>**Deepseek教程**</h1>
 
 <a href="https://www.alipan.com/s/mcQJk1i6C1X" >DeepSeek 15天指导手册——从入门到精通 (2)</a>
-
+![edae040d9eb4a825799a314cecdb9fb](https://github.com/user-attachments/assets/be7273ac-6eba-4498-aaaf-04648f7e76e0)
 <a href="https://www.alipan.com/s/nTjsaj4mJaV">DeepSeek从入门到精通(20250204)</a>
-
-
+![eab10810a41ef99ecb26f0ff7f50d3e](https://github.com/user-attachments/assets/4c93f353-1d09-47ff-ad1e-521d92b5960f)
 <h1>**Deepseek接入应用**</h1>
 <a href="https://github.com/deepseek-ai/awesome-deepseek-integration">Deepseek支持应用官方仓库</a>
 获得API之后可以下载这些应用来进行使用，比较推荐Chatbox(支持联网搜索）跟Cherrystudio.
+![image](https://github.com/user-attachments/assets/0099b87d-4158-46ac-a72b-e8cb3fd70a75)
